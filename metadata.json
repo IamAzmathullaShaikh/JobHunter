@@ -1,0 +1,8 @@
+{
+  "name": "JobHunterAI Pro",
+  "description": "AI-powered job search engine, ATS resume matcher, cover letter writer, recruiter finder, and application tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
